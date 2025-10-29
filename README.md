@@ -9,3 +9,7 @@ Going to use this repo to store the projects from the course and enventually put
 
 This first project is very basic html, learning headers, gonna blow through this in a day
 Learned about header elements, paragraph element, and void tags
+
+The project was creating a very simple website with a brief movie list, visible in section_1/Project
+
+## Project 2
