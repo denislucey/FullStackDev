@@ -33,3 +33,8 @@ Project was a resume/portfolio site, linking multiple pages together
 I also created a base index.html file at the root to be able to host all my projects in this repo and then publish to github
 
 Next up is css :devil emoji:
+
+## Project 4
+
+CSS stuff, first learned the 3 types on adding css, inline, internal, external
+Then learned CSS selectors, class, id, element
