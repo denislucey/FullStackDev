@@ -1,0 +1,20 @@
+h2 {
+    color: red;
+}
+
+.green-text {
+    color: green;
+}
+
+#blue-text {
+    color: blue;
+}
+
+h3[draggable] {
+    color: orange
+}
+
+* {
+    text-align: center;
+}
+
