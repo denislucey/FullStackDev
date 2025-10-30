@@ -22,3 +22,14 @@ May have to find a way to start shipping stuff to my computer
 This project is a birthday invite and can be found in section_2/Project, changed it to a halloween party invite
 
 Most important thing from this section was learning about basic attributes and their syntax
+
+## Project 3
+
+Did not code along to this one, but was file paths, HTML boilerplate and imbedding images
+
+Basic stuff I would say but the boilerplate stuff was super helpful and learned to host my website on github
+
+Project was a resume/portfolio site, linking multiple pages together
+I also created a base index.html file at the root to be able to host all my projects in this repo and then publish to github
+
+Next up is css :devil emoji:
