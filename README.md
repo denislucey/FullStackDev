@@ -13,3 +13,12 @@ Learned about header elements, paragraph element, and void tags
 The project was creating a very simple website with a brief movie list, visible in section_1/Project
 
 ## Project 2
+
+Learning about lists, nesting indentation, anchors and images
+
+The starter code is beginning to be more and more involved, I dont love this development but oh well
+May have to find a way to start shipping stuff to my computer
+
+This project is a birthday invite and can be found in section_2/Project, changed it to a halloween party invite
+
+Most important thing from this section was learning about basic attributes and their syntax
