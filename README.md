@@ -37,4 +37,15 @@ Next up is css :devil emoji:
 ## Project 4
 
 CSS stuff, first learned the 3 types on adding css, inline, internal, external
+
 Then learned CSS selectors, class, id, element
+
+## Project 5
+
+More Css, learning about some text properties, and the box model
+
+Box Model:
+
+Padding -> goes between element and border
+Border -> between padding and margin
+Margin -> between the border and the next element and it's box model
