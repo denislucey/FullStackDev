@@ -1,0 +1,43 @@
+.background-div {
+    background-color: black;
+    width: 900px;
+    height: 700px;
+}
+
+img {
+    border: 2px solid white;
+    margin: 50px;
+    margin-bottom: 0px
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    margin-bottom: 0px;
+    margin-top: 10px;
+    text-transform: uppercase;
+}
+
+p {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    width: 400px;
+    text-align: center;
+    margin-left: 250px;
+    margin-top: 10px;
+}
+
+.libre-baskerville-regular {
+  font-family: "Libre Baskerville", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.libre-baskerville-bold {
+  font-family: "Libre Baskerville", serif;
+  font-weight: 700;
+  font-style: normal;
+}
