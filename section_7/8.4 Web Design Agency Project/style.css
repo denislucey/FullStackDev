@@ -11,7 +11,11 @@ body {
 }
 
 h1 {
-  font-size: 5rem;
+  font-size: 3rem;
+}
+
+img.logo {
+  width: 40%
 }
 
 footer {
@@ -34,10 +38,20 @@ footer {
 }
 
 img.tile-image {
-  float: left;
-  width: 80%;
+  width: 100%;
 }
 
-@media (max-width: 600px) {
-  
+@media (max-width: 800px) {
+  .card {
+    display: block;
+    width: 100%;
+  }
+  img.tile-image {
+    float: none;
+    width: 100%;
+  }
+  h2.card-title {
+    margin-top: 0px;
+  }
+
 }
