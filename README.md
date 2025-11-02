@@ -53,3 +53,19 @@ Margin -> between the border and the next element and it's box model
 ## Project 6
 
 Intermediate css, learning about selectors and positioning, as well as the cascading nature of the language
+
+## Project 7
+
+Got onto udemy on my personal comp, will be able to download project files now
+
+Advanced css, first topic was css display, then clear and float, then responsive design
+
+Big talk on responsive design, will learn, media queries, css grid, flexbox and external tools like bootstrap
+
+Media queries are super flexible and let us specify css when certain criteria are met
+
+Grid: lets us make a grid very quickly and regimented
+
+Flexbox: another big system that will have it's own section, 1d layouts
+
+Bootstrap: external framework, defined a ton of usable classes, built on top of flexbox
