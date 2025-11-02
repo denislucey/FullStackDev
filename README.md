@@ -49,3 +49,7 @@ Box Model:
 Padding -> goes between element and border
 Border -> between padding and margin
 Margin -> between the border and the next element and it's box model
+
+## Project 6
+
+Intermediate css, learning about selectors and positioning, as well as the cascading nature of the language
