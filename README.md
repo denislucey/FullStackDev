@@ -69,3 +69,7 @@ Grid: lets us make a grid very quickly and regimented
 Flexbox: another big system that will have it's own section, 1d layouts
 
 Bootstrap: external framework, defined a ton of usable classes, built on top of flexbox
+
+## Project 8
+
+Flexbox, and added some very helpful resources

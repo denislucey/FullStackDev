@@ -38,9 +38,15 @@
         font-weight: bold;
       }
 
+      ul {
+        padding: 0px;
+        text-align: center;
+      }
+
       li {
         list-style: none;
-        font-size: 10px
+        font-size: 10px;
+        padding-bottom: 5px;
       }
 
       button {
@@ -53,7 +59,10 @@
       }
 
       /* Hint: What can you do with a media query and flexbox? */
-      @media (max-width: 1250px) {
+      @media (max-width: 1000px) {
+        .pricing-container {
+          flex-direction: column;
+        }
       }
     </style>
   </head>
