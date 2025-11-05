@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mondrian Project</title>
+  <style>
+    /* 
+    Write your CSS here 
+    Gap Colour: #000
+    White: #F0F1EC
+    Red: #E72F24
+    Black: #232629
+    Blue: #004592
+    Yellow: #F9D01E
+    
+
+    For dimensions, see dimensions.png image.
+    HINT: Remember you can't change the properties of grid lines.
+    But grid lines are transparent!
+    */
+    .grid-container {
+      display: grid;
+      height: 748px;
+      width: 748px;
+      background-color: #F0F1EC;
+      grid-template-columns: 320px 9px 198px 9px 153px 9px 50px;
+      grid-template-rows: 414px 9px 130px 10px 155px 9px 20px;
+    }
+    .red-box {
+      background-color: #E72F24;
+      grid-area: 1 / 1 / 1 / 1
+    }
+    .blue-box {
+      background-color: #004592;
+      grid-column-start: 7;
+      grid-column-end: 7;
+      grid-row-start: 3;
+      grid-row-end: 3;
+    }
+    .yellow-box {
+      background-color: #F9D01E;
+      grid-column-start: 3;
+      grid-column-end: 3;
+      grid-row-start: 7;
+      grid-row-end: 7;
+    }
+    .black-box {
+      background-color: #232629;
+      grid-column-start: 5;
+      grid-column-end: 5;
+      grid-row-start: 7;
+      grid-row-end: 7;
+    }
+    .line-1 {
+      background-color: #000;
+      grid-column-start: 1;
+      grid-column-end: -1;
+      grid-row-start: 2;
+      grid-row-end: 2;
+    }
+    .line-2 {
+      background-color: #000;
+      grid-column-start: 2;
+      grid-column-end: 2;
+      grid-row-start: 1;
+      grid-row-end: -1;
+    }
+    .line-3 {
+      background-color: #000;
+      grid-column-start: 1;
+      grid-column-end: 7;
+      grid-row-start: 6;
+      grid-row-end: 6;
+    }
+    .line-4 {
+      background-color: #000;
+      grid-column-start: 6;
+      grid-column-end: 6;
+      grid-row-start: 2;
+      grid-row-end: -1;
+    }
+    .line-5 {
+      background-color: #000;
+      grid-column-start: 7;
+      grid-column-end: 7;
+      grid-row-start: 4;
+      grid-row-end: 4;
+    }
+    .line-6 {
+      background-color: #000;
+      grid-column-start: 4;
+      grid-column-end: 4;
+      grid-row-start: 7;
+      grid-row-end: 7;
+    }
+  </style>
+</head>
+
+<body>
+  <!-- Write your HTML here -->
+  <div class="grid-container">
+    <div class="red-box"></div>
+    <div class="blue-box"></div>
+    <div class="yellow-box"></div>
+    <div class="black-box"></div>
+    <div class="line-1"></div>
+    <div class="line-2"></div>
+    <div class="line-3"></div>
+    <div class="line-4"></div>
+    <div class="line-5"></div>
+    <div class="line-6"></div>
+  </div>
+  <hr />
+  <a href="../../index.html">Back to Home Page</a>
+</body>
+
+</html>
