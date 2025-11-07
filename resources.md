@@ -15,3 +15,5 @@ https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 ## Bootstrap
 
 https://getbootstrap.com
+
+https://www.w3schools.com/bootstrap/bootstrap_templates.asp
