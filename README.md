@@ -73,3 +73,11 @@ Bootstrap: external framework, defined a ton of usable classes, built on top of 
 ## Project 8
 
 Flexbox, and added some very helpful resources
+
+## Project 9
+
+Grid, cool
+
+## Project 10
+
+Bootstrap
